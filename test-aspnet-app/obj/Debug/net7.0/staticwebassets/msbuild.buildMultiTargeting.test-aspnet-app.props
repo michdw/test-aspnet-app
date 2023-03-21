@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/test-aspnet-app.props" />
+</Project>
